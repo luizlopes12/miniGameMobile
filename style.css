@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #1a1a1a;
+}
+.bola{
+    background-color: rgb(15, 171, 219);
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    position: absolute;
+    z-index: 0;
+}
+#contador{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+    font-size: 1.5em;
+    width: 100%;
+    z-index: 99999;
+    text-align: center;
+}
